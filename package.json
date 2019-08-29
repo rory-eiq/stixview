@@ -2,7 +2,7 @@
   "name": "stixview",
   "version": "1.1.4",
   "description": "Embeddable STIX2 graph viewer in JS",
-  "main": "src/index.js",
+  "main": "dist/stixview.bundle.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/traut/stixview.git"
