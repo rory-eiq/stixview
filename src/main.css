@@ -76,9 +76,10 @@
     overflow: scroll;
     border-width: 0px 0px 0px 1px;
     border-style: solid;
-    border-color: #ddd;
-    background-color: #f7f7f7;
+    border-color: rgba(255, 255, 255, 0.2);
+    background-color: #1E2B2A;
     line-height: 1.4em;
+    color: white;
 }
 
 .sidebar .sidebar-title {
@@ -102,6 +103,12 @@
     height: 400px;
     max-height: 300px;
     width: 100%;
+    background-color: #1E2B2A;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.2);
+    color: white;
+
 }
 
 .viewer-footer {
